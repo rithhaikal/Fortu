@@ -1,0 +1,18 @@
+/* Ensure the app uses the full viewport and the page never scrolls */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  overflow: hidden; /* ⛔ prevent page scroll */
+  touch-action: none; /* 🚫 stop rubber-band scrolling on mobile */
+}
+
+/* Use this on your top-level React wrapper (e.g., <div className="app-root">) */
+.app-root {
+  position: fixed; /* lock to the screen */
+  inset: 0; /* top:0 right:0 bottom:0 left:0 */
+  width: 100vw;
+  height: 100vh; /* ensure Canvas has size */
+  overflow: hidden; /* no scrollbars here either */
+}

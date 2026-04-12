@@ -4,7 +4,7 @@ An interactive 3D lucky draw system built using modern web technologies. Users c
 
 ## 🚀 Live Demo
 
-👉 https://yourapp.vercel.app](https://3d-lucky-draw-eight.vercel.app/
+👉 https://3d-lucky-draw-eight.vercel.app/
 
 ## 📦 GitHub Repository
 

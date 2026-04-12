@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="742" height="960" viewBox="0 0 742 960">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #255380;
+        stroke-width: 77.54px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="371" cy="370.344" r="331.406"/>
+  <path id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-2" d="M394.8,176.482a173.4,173.4,0,0,1,173.4,173.4"/>
+  <path class="cls-3" d="M200.327,703.384H539.7l63.546,217.247H136.781Z"/>
+</svg>

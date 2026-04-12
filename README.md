@@ -1,12 +1,30 @@
-# React + Vite
+# 🎰 3D Gumball Lucky Draw Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive 3D lucky draw system built using modern web technologies. Users can spin a virtual gumball machine and receive randomized rewards in a fun and engaging way.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 https://yourapp.vercel.app](https://3d-lucky-draw-eight.vercel.app/
 
-## Expanding the ESLint configuration
+## 📦 GitHub Repository
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 https://github.com/rithhaikal/3D-LuckyDraw
+
+## 🛠️ Tech Stack
+
+* React / Vite
+* Three.js (3D rendering)
+* JavaScript / TypeScript
+
+## ✨ Features
+
+* Interactive 3D gumball machine
+* Randomized lucky draw system
+* Smooth animations and user interaction
+
+## ⚙️ Installation (for developers)
+
+```bash
+npm install
+npm run dev
+```
